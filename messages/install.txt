@@ -1,9 +1,9 @@
-SublimeLinter-shellcheck
+SublimeLinter-tldr
 -------------------------------
-This linter plugin for SublimeLinter provides an interface to shellcheck.
+This linter plugin for SublimeLinter provides an interface to `tldr-lint`.
 
 Please read the installation instructions at:
 
-https://github.com/SublimeLinter/SublimeLinter-shellcheck
+https://github.com/tldr-pages/tldr-sublime-extension
 
-Follow install instructions of shellcheck at https://github.com/koalaman/shellcheck
+Follow install instructions of `tldr-lint` at https://github.com/tldr-pages/tldr-lint
