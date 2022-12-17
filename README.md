@@ -10,8 +10,8 @@ This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeL
 ## Features
 
 - [ ] Code linting
-- Code snippets (unavailable, use [VS Code](https://github.com/tldr-pages/tldr-code-extension) if it's required)
-- Code actions (unavailable, use [VS Code](https://github.com/tldr-pages/tldr-code-extension) if it's required)
+- [ ] Code snippets (unavailable, use [VS Code](https://github.com/tldr-pages/tldr-code-extension) if it's required)
+- [ ] Code actions (unavailable, use [VS Code](https://github.com/tldr-pages/tldr-code-extension) if it's required)
 
 ## Settings
 
